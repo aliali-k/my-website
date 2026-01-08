@@ -1,0 +1,84 @@
+
+
+
+<!DOCTYPE html> 
+<!-- // it means document ka type honnei wala hai voh hai html  --> -->
+<html lang="en">  
+    <!-- // it means jo meri website hai voh saari ki saari english mei aanei waali hai  -->
+
+<head>
+    <!--head is like a brain which stores info about the part that are going to perform some kind of functions and are present inside the body bro -->
+    <!-- meta means information ke baarei mei information dene wala like anura giving info about deepak like that  -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head> 
+
+<body>
+    <!--body contains all those things which are going to work on the command by heads bro -->
+    <p> 5 > 3 </p> <!--thsi is wrong way to use greater than symbol-->
+    <p> 5 &gt 3 </p>
+    <p> 5 &amp 3 </p>
+    <p>Lorem ipsum dolor &nbsp; &#63 &nbsp;  amet consectetur adipisicing elit. Quidem, ullam.</p>
+</body>
+
+</html>
+   
+<div >hi man </div>
+<div >hi women </div> <!--div makes them to one to another line bro -->
+<span>hi man hi women </span> <!--makes them to come in one line -->
+<span>zerodha</span>
+<span>sign up</span>
+
+<h1 style="color: black; background-color: aqua;border-radius:10px;box-shadow:-2px 14px 20px black;padding :10px;margin:40px;"> <!--here px stands for pixel bro -->
+    My Name is Nusrat Ali
+</h1>
+
+
+<div style="padding-left:100 px;
+padding-right:100 px;background-color:rgb(77, 255, 0);">
+   <span>hi there</span>span>
+   <span> hello</span>
+</div>
+
+
+
+<div style="margin-left:100px;
+margin-right:100px;">
+   <img src="Screenshot 2026-01-08 192208.png" width="100"/>
+   <span style="float:right;">sign up</span> <!--let us use the float property -->
+</div>
+
+
+
+<div style="display:flex;justify-content:space-between;">
+   <img src="Screenshot 2026-01-08 192208.png" width="100"/>
+   <span>papa ki website </span>
+   <span style="float:right;">sign up</span> <!--let us use the float property -->
+</div>
+
+
+
+
+
+<div style="display:flex;
+justify-content:space-between;
+margin-left:100px;margin-right: 100px; margin-right: 100px;">
+      <img src="Screenshot 2026-01-08 192208.png" width="100"/>
+      <span>
+        <span>
+          sign up
+      </span>
+      <span>
+          About Us
+      </span>
+    </span>
+</div>
+
+   
+
+
+<center>
+    <img src="photo.png" width="1200" height="500"/>
+</center>
+    
